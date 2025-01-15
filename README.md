@@ -1,0 +1,1 @@
+started to fail at 577 characters per second
